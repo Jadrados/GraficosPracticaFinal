@@ -1,0 +1,3 @@
+C:\Users\Familia\Downloads\P1GLSL (1)\P1GLSL\P1GLSL\Debug\P1GLSL.exe
+C:\Users\Familia\Downloads\CameraComponent\CameraComponent\CameraComponent\Debug\P1GLSL.exe
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\Debug\P1GLSL.exe

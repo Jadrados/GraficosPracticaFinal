@@ -1,0 +1,10 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\scr\main.cpp(52,16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\scr\main.cpp(58,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\scr\main.cpp(58,25): warning C4244:         with
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\scr\main.cpp(58,25): warning C4244:         [
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\scr\main.cpp(58,25): warning C4244:             T=float
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\scr\main.cpp(58,25): warning C4244:         ]
+C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\scr\main.cpp(87,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  P1GLSL.vcxproj -> C:\Users\Familia\Downloads\LightComponent\LightComponent\LightComponent\Debug\P1GLSL.exe
