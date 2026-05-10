@@ -1,0 +1,3 @@
+C:/Users/guill/OneDrive/Escritorio/graficos_parte2/build/CMakeFiles/P2GLSL.dir
+C:/Users/guill/OneDrive/Escritorio/graficos_parte2/build/CMakeFiles/edit_cache.dir
+C:/Users/guill/OneDrive/Escritorio/graficos_parte2/build/CMakeFiles/rebuild_cache.dir
